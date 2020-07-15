@@ -1,0 +1,18 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 450px;
+  height: 450px;
+  margin: auto;
+  background: #ffe6eb;
+}
+.grid div {
+  width: 30px;
+  height: 30px;
+}
+.beginner {
+  background-color: cornflowerblue;
+}
+.disturbFactor {
+  background-color: darkorange;
+}
